@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='Unknown.jpeg'
+            src='./Unknown.jpeg'
             alt='louis blanc'
           />
 
