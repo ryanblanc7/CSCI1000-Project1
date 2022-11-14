@@ -15,11 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            I am a Computer Science BA major with a minor in Japanese. In programming, I have experience with Python, C++, and C#.
+            Outside of school work I enjoy working out, skating, sleeping, and eating good food.
           </p>
 
           <a className='button' href='/'>
