@@ -6,17 +6,17 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Louis Blanc</h1>
+            <h1 className='title'>Hello, Im Charan Sai Kakula</h1>
           </div>
           <img
             className='pic'
-            src='./Unknown.jpeg'
-            alt='louis blanc'
+            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
+            alt='ron burgundy'
           />
 
           <p className='description'>
-            I am a Computer Science BA major with a minor in Japanese. In programming, I have experience with Python, C++, and C#.
-            Outside of school work I enjoy working out, skating, sleeping, and eating good food.
+            I am a freshman studying CS at CU Boulder. I love playing and watching sports, 
+            hanging out with friends and doing other stuff. 
           </p>
 
           <a className='button' href='/'>
