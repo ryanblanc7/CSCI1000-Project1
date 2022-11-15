@@ -6,11 +6,11 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Charan Sai Kakula</h1>
+            <h1 className='title'>Hello, I'm Charan Sai Kakula</h1>
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
+            src='./Broncos.jpeg'
             alt='ron burgundy'
           />
 
