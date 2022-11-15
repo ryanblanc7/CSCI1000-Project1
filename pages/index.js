@@ -26,22 +26,22 @@ export default function Home() {
             <p>Click here to learn about Louis Blanc</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='/charansaikakula'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Charan Kakula's page &rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Click here to learn about Charan Kakula
             </p>
           </a>
           <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
+            href='/vesaunShrestha'
             className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <h3>Vesaun Shrestha's page&rarr;</h3>
+            <p>Click here to learn about Vesaun Shrestha</p>
           </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
+          <a href='/alexmcdonald' className='card'>
+            <h3>Alex Mcdonald's page &rarr;</h3>
+            <p>Click here to learn about Alex Mcdonald</p>
           </a>{' '}
           <a href='https://tailwindcss.com/' className='card'>
             <h3>Tailwind css&rarr;</h3>
