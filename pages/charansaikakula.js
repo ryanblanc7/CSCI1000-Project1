@@ -11,12 +11,12 @@ export default function examplePage() {
           <img
             className='pic'
             src='./Broncos.jpeg'
-            alt='ron burgundy'
+            alt='charan sai kakula'
           />
 
           <p className='description'>
             I am a freshman studying CS at CU Boulder. I love playing and watching sports, 
-            hanging out with friends and doing other stuff. 
+            hanging out with friends and trying new things. 
           </p>
 
           <a className='button' href='/'>
