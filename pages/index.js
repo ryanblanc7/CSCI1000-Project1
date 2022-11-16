@@ -43,9 +43,9 @@ export default function Home() {
             <h3>Alex Mcdonald's page &rarr;</h3>
             <p>Click here to learn about Alex Mcdonald</p>
           </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
+          <a href='/yurifung' className='card'>
+            <h3>Yuri Fung's page&rarr;</h3>
+            <p>Click here to learn about Yuri Fung</p>
           </a>
           <a href='https://styled-components.com/' className='card'>
             <h3>Styled Components&rarr;</h3>
