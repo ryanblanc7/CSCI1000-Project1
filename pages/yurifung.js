@@ -6,17 +6,19 @@ export default function examplePage() {
 
       <main>
         <div className='underline'>
-          <h1 className='title'>Hello, Im Yuri Fung</h1>
+          <h1 className='title'>Hello, Im Yuri Fung!</h1>
         </div>
         <img
-          className='pic'
-          src='./Unknown.jpeg'
-          alt='Yuri Fung'
+           className='pic'
+           src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png'
+           alt='Yuri Fung'
+          
         />
 
         <p className='description'>
-          Hello, I am Yuri Fung. Currently I am attending University of Colorado Boulder. I am majoring in Computer Science, 
-          and I plan to get a master's degree as well. I live in Erie, Colorado, and I commute to CU Boulder.
+        Hello, I am Yuri Fung. Currently I am attending University of Colorado Boulder. I am majoring in Computer Science, 
+        and I plan to get a master's degree as well. I live in Erie, Colorado, and I commute to CU Boulder. I am taking CSCI 2275 and currently learning C++.
+    
         </p>
 
         <a className='button' href='/'>
