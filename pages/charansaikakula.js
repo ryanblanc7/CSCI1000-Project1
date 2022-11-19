@@ -6,17 +6,17 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Charan Sai Kakula</h1>
+            <h1 className='title'>Hello, I'm Charan Sai Kakula</h1>
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
+            src='./Broncos.jpeg'
+            alt='charan sai kakula'
           />
 
           <p className='description'>
             I am a freshman studying CS at CU Boulder. I love playing and watching sports, 
-            hanging out with friends and doing other stuff. 
+            hanging out with friends and trying new things. 
           </p>
 
           <a className='button' href='/'>
