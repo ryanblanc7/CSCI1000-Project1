@@ -17,7 +17,7 @@ export default function almc() {
           <p className='description'>
             <b>Basic Overview of RSA Asymmetric Encryption - Written by Alex M</b><br></br>
             The difference between symmetric and asymmetric encryption is that symmetric encryption uses the same key to encrypt and decrypt, while asymmetric 
-            uses a private key to decrypt and distributes a mathematically related public key to encrypt. The private key is composed of two very large prime
+            uses a private key to decrypt and distributes a mathematically related public key to encrypt. In RSA, the private key is composed of two very large prime
             numbers, and the public key is the product of those two numbers, making it an easy operation to get the public key from the private key, but a
             nearly computationally impossible operation to calculate the private key, as the product of the two primes is hundreds of digits long. This can be
             used to make websites secure by having the two entities (the server and the client) exchange a pair of public keys, thus allowing the client to encrypt
